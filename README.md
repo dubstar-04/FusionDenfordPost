@@ -1,6 +1,5 @@
-# FusionDenfordPost
+# Fusion Custom Post Processors
 HSM Fusion 360 Custom Post Processors
 
-Denford Novamill Post processor
-
-Mach4 Mill Post Processor
+- Denford Novamill Post processor
+- Mach4 Mill Post Processor
